@@ -5,10 +5,10 @@
 
 ***
 Soy Fullstack developer. Hace un tiempo atrás comencé con la pasión de programar. Me sentí atraída por la tecnología toda la vida, un día me levanté y necesitaba 
-un cambio, trabajar de algo que realmente me apasionara, que pueda utilizarse como medio para poder ayudar a los demás y si es posible lograr facilitarles las vidas.
-En la programación encontré eso y mucho más.
+un cambio, trabajar de algo que realmente me apasionara, que pueda utilizarse como medio para poder ayudar a los demás y si es posible lograr facilitarles las vidas.  
+En la programación encontré eso y mucho más.  
 Así que aquí estoy, durante todo este proceso estudie y trabaje con estas tecnologías 😎 CSS, JAVASCRIPT,  REACT JS, NODE JS (API'S), EXPRESS, PostgreSQL, MONGO.
-Me interesaría desarrollarme y trabajar en el área de Backend. 
+Me interesaría desarrollarme y trabajar en el área de Backend.   
 
 ***
 ###  ¿Conectamos? ☕ :
